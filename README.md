@@ -1,7 +1,7 @@
 # 📘 School Management System – Project Proposal
 
 ## Team Members
-| Name            | ID.NO       
+| Full Name       | ID      
 |-----------------|------------
 | Alpha Degago    | UGR/4592/15 
 | Ashenafi Godana | UGR/7906/14
