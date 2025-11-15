@@ -1,5 +1,16 @@
 # 📘 School Management System – Project Proposal
 
+## Team Members
+| Name            | ID.NO       
+|-----------------|------------
+| Alpha Degago    | UGR/4592/15 
+| Ashenafi Godana | UGR/7906/14
+| Belean Redwan   | UGR/5921/15
+| Ephraim Debel   | UGR/0640/15 
+| Feben Getachew  | UGR/4295/15 
+
+---
+
 ## 1. Business Problem Description
 
 Schools—especially primary and secondary institutions—are responsible for managing thousands of small but critical tasks every day. However, many schools still rely on outdated, manual processes that make their work harder. Student information is often scattered across offices, grade reporting is slow and prone to errors, and communication between teachers, parents, and students is inconsistent. Parents struggle to track their children's performance, teachers waste time on administrative work, and administrators face challenges in coordinating schedules, exams, and fee payments. For private schools, managing tuition payments and keeping payment status updated adds another layer of complexity.  
